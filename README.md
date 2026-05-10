@@ -10,7 +10,7 @@
 
 ## About Me
 
-Hi there! I'm ***Hershey Nicole Fabillar***, an Information Technology student at New Era University. I'm developing my technical abilities for coding and database management. I learned to break down complex problems and build clean, efficient solutions. I'm currently training my skills in various programming languages such as ***Python***, ***Java***, and ***JavaScript***, alongside hands-on experience with ***IBM DB2*** and cloud-based database platforms. My academic journey has also led me to earn certifications in different online platforms that are necessary for our courses, reflecting my commitment to continuous learning in the ever-evolving tech landscape. I'm exploring new tools and technologies to improve my knowledge and understanding, always aiming to write better, smarter, and more impactful.
+Hi there! I'm ***Hershey Nicole Fabillar***, an ***Information Technology*** student at New Era University. I'm developing my technical abilities for coding and database management. I learned to break down complex problems and build clean, efficient solutions. I'm currently training my skills in various programming languages such as ***Python***, ***Java***, and ***JavaScript***, alongside hands-on experience with ***IBM DB2*** and cloud-based database platforms. My academic journey has also led me to earn certifications in different online platforms that are necessary for our courses, reflecting my commitment to continuous learning in the ever-evolving tech landscape. I'm exploring new tools and technologies to improve my knowledge and understanding, always aiming to write better, smarter, and more impactful.
 
 >
 
@@ -52,7 +52,7 @@ Hi there! I'm ***Hershey Nicole Fabillar***, an Information Technology student a
 
 ---
 
-### You may reach me at
+## You may reach me at
 
 <div align="center">
 
