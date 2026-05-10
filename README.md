@@ -20,7 +20,7 @@ Hi there! I'm ***Hershey Nicole Fabillar***, an Information Technology student a
 
 | Degree | Institution | Period |
 |--------|-------------|--------|
-| BS Information Technology | [New Era University](https://college2526.neu.edu.ph/mod/page/view.php?id=168084) | 2024 – Present |
+| BS Information Technology | [New Era University](https:https://www.bing.com/ck/a?!&&p=c83cb95357c35d379c84a0aab8490512fd380f8645a0239b823249ac2b9de1f8JmltdHM9MTc3ODM3MTIwMA&ptn=3&ver=2&hsh=4&fclid=0edd2856-073d-6b30-0f75-3ca606a06aa4&psq=new+era+university&u=a1aHR0cHM6Ly93d3cubmV1LmVkdS5waC9tYWluLw) | 2024 – Present |
 
 ---
 
