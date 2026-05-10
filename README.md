@@ -56,7 +56,7 @@ Hi there! I'm ***Hershey Nicole Fabillar***, an Information Technology student a
 
 <div align="center">
 
-[![hersheynicolefabillar@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hersheynicolefabillar@gmail.com)
+[![hersheynicolefabillar@gmail.com](https://img.shields.io/badge/hersheynicolefabillar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hersheynicolefabillar@gmail.com)
 
 </div>
 
