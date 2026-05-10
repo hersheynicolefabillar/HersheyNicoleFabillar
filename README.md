@@ -28,7 +28,7 @@ Hi there! I'm ***Hershey Nicole Fabillar***, an Information Technology student a
 
 - [**NoSQL and DBaaS 101**](https://courses.cognitiveclass.ai/certificates/08d3a148f15a499c80024a5f7b882e69) — MongoDB / NoSQL Foundations
 - [**Gemini Certified University Student**](https://edu.google.accredible.com/2c486684-774c-4ef9-8620-8afc4a4e3105#acc.kWH7MCbf)
-- [**Data Analytics with AI**]https://www.sololearn.com/certificates/CC-SPTZOVUL
+- [**Data Analytics with AI**](https://www.sololearn.com/certificates/CC-SPTZOVUL)
 
 ---
 
