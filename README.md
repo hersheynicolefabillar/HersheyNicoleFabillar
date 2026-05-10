@@ -32,7 +32,7 @@ Hi there! I'm ***Hershey Nicole Fabillar***, an Information Technology student a
 
 ---
 
-## Tech Stack & Skills
+## Skill Sets
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -52,7 +52,7 @@ Hi there! I'm ***Hershey Nicole Fabillar***, an Information Technology student a
 
 ---
 
-## Let's Connect
+### You may reach me at
 
 <div align="center">
 
